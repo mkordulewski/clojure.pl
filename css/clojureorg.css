@@ -709,6 +709,7 @@ hr {
 }
 
 .clj-footer-designed-by {
+  text-align: right;
   position: absolute;
   top: 5px;
   right: 0px;
